@@ -1,0 +1,16 @@
+1) Страница https://www.reg.ru/web-tools/google-apps/, зеленая кнопка “Заказать G Suite”.
+[class*='l-margin_right-large l-margin_bottom-normal b-google-apps-promo__go-to-plans']
+
+
+2) Страница https://www.reg.ru/web-tools/google-apps/, зеленая кнопка “Выбрать” для тарифа “Гибкий”
+a[class*='b-plans-pillar__item_type_flexible'] button[class*='b-plans-pillar__choose b-plans-pillar__details-button']
+
+3) Страница https://www.reg.ru/web-sites/ecwid/, зеленая кнопка “Запустить магазин”
+[class*='l-margin_normal i-scroll']
+
+4) Страница https://www.reg.ru/web-sites/ecwid/, зеленая кнопка “Купить” для тарифа Бизнес
+li[class*='ecwid-plan-business'] [class*='b-button_size_medium']
+
+5) Страница https://www.reg.ru/web-tools/free-email/, левая кнопка “Подробнее”
+[class*='b-table-compare__footer-button_pos_left']
+
